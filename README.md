@@ -7,7 +7,7 @@ This program can be used to write systematic reviews wicked fast. It is human-in
 # Installation
 You can install the files as a App on windows through the releases (clickable to the right of this readme): https://github.com/mclaughlinliam3/AI-Systematic-Review-Foundry/releases/latest
 
-If you do not have windows, you can perhaps try just downloading the program files, install Python, then find main_app.py and run this file with Python.
+If you do not have windows, you can perhaps try just downloading the program files, install Python, installing the required dependencies, then find main_app.py and run this file with Python.
 
 # Setting up APIs
 To use automated obtainment of sources for the review, you need an NCBI API key. This is free to obtain and run and can pull sources from pubmed.
