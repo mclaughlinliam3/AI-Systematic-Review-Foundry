@@ -18,7 +18,7 @@ To use the remote LLM API, currently Claude is the one that is supported. **Just
 https://platform.claude.com/settings/keys
 NOTE - For these sorts of APIs specifically, you will have to add funds because querying this model costs some money. Additionally, you may have to contend with rate limits if you use it a lot.
 
-Lastly, it's possible to locally host your own LLM via Ollama. Ollama is a Python package that let's you install LLM models to your machine to be run on a GPU. Note that this will likely be substantially slower and with a simpler model than the remote APIs unless you're PC is a beast: https://pypi.org/project/ollama/
+Lastly, it's possible to locally host your own LLM via Ollama. Ollama is a Python package that let's you install LLM models to your machine to be run on a GPU. Note that this will likely be substantially slower and with a simpler model than the remote APIs unless your GPU is a beast: https://pypi.org/project/ollama/
 
 # General Note on AI review writing capabilities
 In general, the AI's chances of misattributing sources go up if you feed it a huge amount of text at once. At very high levels, it may start to hallucinate. The framework of this program is designed to limit what text an AI can see at once so that it does this less. But if you do decide to feed it a bunch of text at once, do so at your own risk.
