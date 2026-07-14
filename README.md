@@ -3,13 +3,13 @@
 A desktop application for coordinating, drafting, and verifying systematic
 reviews with a human-in-the-loop AI workflow. Retrieve sources from PubMed,
 screen them for inclusion, extract evidence by topic, draft every section of
-the review, and validate every citation — all from one interface, with an
+the review, and validate every citation, all from one interface, with an
 approval step in front of anything the AI generates.
 
 > **You are the captain of this ship.** Every AI-generated prompt is shown to
 > you before it's sent, and every AI-generated response is shown to you before
 > it's applied. The Foundry gives you tools to move fast and to check your
-> work — it does not replace your judgment. Verifying that the final review is
+> work. It does not replace your judgment. Verifying that the final review is
 > accurate is your responsibility.
 
 ---
